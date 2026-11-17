@@ -1,6 +1,6 @@
 # Fin Codes API Documentation
 
-This repository contains the source for the Fin Codes API documentation, published at **[docs.fincodesapi.com](https://docs.fincodesapi.com)**.
+This repository contains the source for the [Fin Codes API](https://fincodesapi.com) documentation, published at **[docs.fincodesapi.com](https://docs.fincodesapi.com)**.
 
 Fin Codes API is a REST API for validating and looking up bank codes, verifying payees and screening against sanctions lists. It helps you check payment details before money is sent. The interactive reference (Swagger UI) is at [docs.fincodesapi.com](https://docs.fincodesapi.com).
 
